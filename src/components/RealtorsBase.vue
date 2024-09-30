@@ -35,6 +35,7 @@
     grid-row-gap: 2rem;
     align-content: center;
     justify-content: center;
+    justify-items: center;
 
     @media only screen and (max-width: $bp-medium) {
       grid-column: 1 / -1;
